@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "393284846777",
+    "project_id": "pace-9c9ff",
+    "storage_bucket": "pace-9c9ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393284846777:android:84df4bf6d25aeb3b800768",
+        "android_client_info": {
+          "package_name": "co.tino.flutter_banking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeLKQ0sdhFrMCFJIv8m092AEJ6Dngdleg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393284846777:android:e9f004ddf1c01e5c800768",
+        "android_client_info": {
+          "package_name": "com.example.energy_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeLKQ0sdhFrMCFJIv8m092AEJ6Dngdleg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,64 @@
+name: energy_app
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+
+  firebase_auth: ^4.17.7
+  firebase_core: ^2.31.0
+  cloud_firestore: ^4.3.1
+  syncfusion_flutter_charts: ^23.1.40
+  image_picker: ^0.8.7
+  http: ^0.13.6
+
+
+  flutter:
+    sdk: flutter
+
+
+
+
+  # UI & State Management
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.2
+  shared_preferences: ^2.0.15
+  flutter_lints: ^2.0.0
+  gap: ^3.0.1
+  fl_chart: ^0.64.0
+  url_launcher: ^6.1.7  # Exemple
+
+
+  shared_preferences_web: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: DMSans
+      fonts:
+        - asset: assets/fonts/DMSans_Regular.ttf
+        - asset: assets/fonts/DMSans_Medium.ttf
+        - asset: assets/fonts/DMSans_Bold.ttf
+
+    - family: IconlyBold
+      fonts:
+        - asset: assets/fonts/Iconly_Bold.ttf
+
+    - family: IconlyBroken
+      fonts:
+        - asset: assets/fonts/Iconly_Light.ttf
+
+  assets:
+    - assets/
+    - assets/memoji/
+    - assets/cards/
+
