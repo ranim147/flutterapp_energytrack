@@ -105,7 +105,7 @@ Je remercie chaleureusement mon maître de stage ainsi que toute l’équipe enc
 ## 📬 Contact
 
 Pour toute question ou remarque, vous pouvez me contacter à :  
-**Email** : ton.email@example.com
+**Email** : bettaiebranim@gmail.com
 
 ---
 
